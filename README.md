@@ -1,6 +1,3 @@
-# Let's create the README.md file with the content provided.
-
-readme_content = """
 # AltSchool Cloud Engineering Capstone Project
 
 ## Overview
